@@ -11,7 +11,7 @@ logger = get_logger(__name__)
 def main():
     try: 
         logger.info("Start building pipeline")
-        loader = AnimeDataLoader("data/anime_with_synopsis.csv", "animed_updated.csv")
+        loader = AnimeDataLoader("data/anime_with_synopsis.csv", "data/animed_updated.csv")
         processed_csv = loader.load_and_process()
 
         logger.info("Data Loaded and Processed")
