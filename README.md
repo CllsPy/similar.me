@@ -6,7 +6,6 @@ Um sistema de recomendação é um tipo de modelo de inteligência artificial pr
 # Descrição do Projeto
 O objetivo do projeto é construir um sistema de recomendação de animes, usando LLMs. O foco do projeto consiste em obter uma lista de animes para outros animes semelhantes, por padrão o webapp retorna três recomendações.
 
-![WhatsApp Image 2025-10-12 at 03 56 15_0fe58d3e](https://github.com/user-attachments/assets/36415446-6312-4da5-b1bf-ac4b22b5fffd)
 
 ## Steps
 1. Setup do projeto
@@ -16,6 +15,9 @@ O objetivo do projeto é construir um sistema de recomendação de animes, usand
 5. Deploy no Amazon EC2
 6. Monitorar com Grafana
 7. Obter recomendações
+
+### Grafana Dashboard
+![WhatsApp Image 2025-10-12 at 03 56 15_0fe58d3e](https://github.com/user-attachments/assets/36415446-6312-4da5-b1bf-ac4b22b5fffd)
 
 ## Requirements
 Python. Python is an interpreted, high-level and general-purpose programming language.
