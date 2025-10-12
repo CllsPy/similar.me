@@ -1,5 +1,4 @@
 # Anime Recommender System
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/2b60a4ca-b723-486e-86ef-77374d0f97c1" />
 <img width="500" height="209" alt="image" src="https://github.com/user-attachments/assets/05b3b237-b09a-4767-9be6-a4371ca6da1a" />
 
 
