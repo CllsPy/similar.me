@@ -15,9 +15,6 @@ O objetivo do projeto é construir um sistema de recomendação de animes, usand
 6. Monitorar com Grafana
 7. Obter recomendações
 
-### Grafana Dashboard
-![WhatsApp Image 2025-10-12 at 03 56 15_0fe58d3e](https://github.com/user-attachments/assets/36415446-6312-4da5-b1bf-ac4b22b5fffd)
-
 ## Requirements
 - Python. Python is an interpreted, high-level and general-purpose programming language.
 - AWS Accout Free Tier
@@ -45,5 +42,3 @@ Cllpsy
 
 ## License
 This project is licensed under the MIT License.
-
-## Grafana
