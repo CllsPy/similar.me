@@ -33,12 +33,13 @@ langchain-huggingface
 streamlit
 ```
 
-# Launch
+## Launch
 Run the app.py file
 
-# Authors
+## Authors
+Cllpsy
 
-# License
+## License
 This project is licensed under the MIT License.
 
 ## Grafana
