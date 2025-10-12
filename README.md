@@ -1,7 +1,7 @@
 # Anime Recommender System
 <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/2b60a4ca-b723-486e-86ef-77374d0f97c1" />
 
-Sistema de recomendação inteligente que utiliza processamento de linguagem natural e análise de similaridade para sugerir animes personalizados. A arquitetura combina modelos de embeddings para compreender descrições textuais com filtragem baseada em conteúdo considerando gêneros, temas e características demográficas.
+Um sistema de recomendação é um tipo de modelo de inteligência artificial projetado para prever preferências e sugerir itens relevantes aos usuários com base em seu comportamento, histórico ou características semelhantes a outros usuários. Ele atua como um filtro inteligente em meio ao excesso de informações, ajudando pessoas a descobrirem produtos, músicas, filmes, cursos, ou qualquer conteúdo de interesse de forma personalizada.
 
 # Descrição do Projeto
 O objetivo do projeto é construir um sistema de recomendação de animes, usando LLMs. O foco do projeto consiste em obter uma lista de animes para outros animes semelhantes, por padrão o webapp retorna três recomendações.
@@ -32,7 +32,6 @@ sentence-transformers
 langchain-huggingface
 streamlit
 ```
-
 ## Launch
 Run the app.py file
 
