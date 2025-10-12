@@ -1,5 +1,7 @@
 # Anime Recommender System
 <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/2b60a4ca-b723-486e-86ef-77374d0f97c1" />
+<img width="500" height="209" alt="image" src="https://github.com/user-attachments/assets/05b3b237-b09a-4767-9be6-a4371ca6da1a" />
+
 
 Um sistema de recomendação é um tipo de modelo de inteligência artificial projetado para prever preferências e sugerir itens relevantes aos usuários com base em seu comportamento, histórico ou características semelhantes a outros usuários. Ele atua como um filtro inteligente em meio ao excesso de informações, ajudando pessoas a descobrirem produtos, músicas, filmes, cursos, ou qualquer conteúdo de interesse de forma personalizada.
 
