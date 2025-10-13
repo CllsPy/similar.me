@@ -3,7 +3,10 @@
 ![Sistema de Recomendação de Animes](https://github.com/user-attachments/assets/42834738-18bd-474a-a64c-b9e4becbbd0a)
 
 ## Stack Tecnológica
-**Grafana Cloud** • **MiniKube** • **Chroma DB** • **LangChain**
+![Grafana](https://img.shields.io/badge/Grafana%20Cloud-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MiniKube](https://img.shields.io/badge/MiniKube-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%2300A67E?style=for-the-badge&logo=databricks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23006B8F?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Descubra Animes do Seu Interesse
 
