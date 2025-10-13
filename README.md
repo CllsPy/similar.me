@@ -1,6 +1,8 @@
 # Anime Recommender System
 <img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/42834738-18bd-474a-a64c-b9e4becbbd0a" />
 
+<stack utilizada> Grafana Cloud MiniKube Chroma DB LangChain
+
 Um sistema de recomendação é um tipo de modelo de inteligência artificial projetado para prever preferências e sugerir itens relevantes aos usuários com base em seu comportamento, histórico ou características semelhantes a outros usuários. Ele atua como um filtro inteligente em meio ao excesso de informações, ajudando pessoas a descobrirem produtos, músicas, filmes, cursos, ou qualquer conteúdo de interesse de forma personalizada.
 
 # Descrição do Projeto
