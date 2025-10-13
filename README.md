@@ -16,9 +16,9 @@ O objetivo do projeto é construir um sistema de recomendação de animes, o alg
 7. Obter recomendações
 
 ## Requirements
-- Python. Python is an interpreted, high-level and general-purpose programming language.
-- AWS Accout Free Tier
-- Grafana Account Free Tier
+- Python | 3.11.9
+- AWS Accout | Free Tier
+- Grafana Account | Free Tier
 
 ### Packages
 Install the following packages in Python prior to running the code.
@@ -35,10 +35,13 @@ langchain-huggingface
 streamlit
 ```
 ## Launch
-Run the app.py file
+1. Fork this repo
+2. Create a mew env
+3. Run: Pip install -e .
+4. Run: streamlit run app/app.py
 
 ## Authors
-Cllpsy
+[Cllpsy](https://github.com/CllsPy)
 
 ## License
 This project is licensed under the MIT License.
