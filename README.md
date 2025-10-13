@@ -1,47 +1,49 @@
-# Sistema de Recomendação de Animes
+# Anime Recommendation System
 
-![Sistema de Recomendação de Animes](https://github.com/user-attachments/assets/42834738-18bd-474a-a64c-b9e4becbbd0a)
+![Anime Recommendation System](https://github.com/user-attachments/assets/42834738-18bd-474a-a64c-b9e4becbbd0a)
 
-## Stack Tecnológica
+## Tech Stack
 ![Grafana](https://img.shields.io/badge/Grafana%20Cloud-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![MiniKube](https://img.shields.io/badge/MiniKube-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%2300A67E?style=for-the-badge&logo=databricks&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23006B8F?style=for-the-badge&logo=openai&logoColor=white)
 
-## Descubra Animes do Seu Interesse
+## Discover Anime That Matches Your Interests
 
-Um sistema de recomendação é um modelo de inteligência artificial que prevê suas preferências e sugere conteúdos relevantes com base no seu comportamento, histórico ou similaridades com outros usuários. Funciona como um filtro inteligente que te ajuda a descobrir animes, filmes, músicas e outros conteúdos de maneira personalizada, eliminando o excesso de informações.
+A recommendation system is an artificial intelligence model that predicts your preferences and suggests relevant content based on your behavior, history, or similarities with other users. It works as an intelligent filter that helps you discover anime, movies, music, and other content in a personalized way, reducing information overload.
 
-## Sobre Este Projeto
+## About This Project
 
-Vamos construir juntos um sistema de recomendação de animes que utiliza o modelo **[llama-3.1-8b-instant](https://console.groq.com/docs/model/llama-3.1-8b-instant)** através da API do **[Groq](https://console.groq.com/home)**. O sistema irá recomendar animes semelhantes ao que você escolher, retornando três sugestões personalizadas. Ao final, implantaremos a aplicação na nuvem **[Amazon EC2](https://aws.amazon.com/pt/ec2/)** e monitoraremos seu desempenho com **[Grafana](https://grafana.com/)**.
+We will build an anime recommendation system using the **[llama-3.1-8b-instant](https://console.groq.com/docs/model/llama-3.1-8b-instant)** model through the **[Groq API](https://console.groq.com/home)**.  
+The system will recommend anime similar to the one you choose, returning three personalized suggestions.  
+Finally, we will deploy the application on **[Amazon EC2](https://aws.amazon.com/ec2/)** and monitor its performance with **[Grafana](https://grafana.com/)**.
 
-## Roteiro de Desenvolvimento
+## Development Roadmap
 
-Siga estes passos para implementar o sistema:
+Follow these steps to implement the system:
 
-1. **Configuração do Ambiente** - Prepare a base do projeto
-2. **Coleta de Dados** - Obtenha informações sobre os animes
-3. **Processamento de Dados** - Estruture as informações coletadas
-4. **Pipeline de Recomendação** - Implemente as etapas de:
-   - Carregamento de dados
-   - Processamento e transformação
-   - Criação do banco vetorial
-   - Aplicação de embeddings
-   - Armazenamento no database
-5. **Deploy na Nuvem** - Implante no Amazon EC2
-6. **Monitoramento** - Configure o Grafana
-7. **Teste as Recomendações** - Execute e valide o sistema
+1. **Environment Setup** - Prepare the project base  
+2. **Data Collection** - Gather anime information  
+3. **Data Processing** - Structure the collected data  
+4. **Recommendation Pipeline** - Implement the following stages:
+   - Data loading  
+   - Processing and transformation  
+   - Vector database creation  
+   - Embedding application  
+   - Database storage  
+5. **Cloud Deployment** - Deploy on Amazon EC2  
+6. **Monitoring** - Set up Grafana  
+7. **Test Recommendations** - Run and validate the system
 
-## Pré-requisitos
+## Prerequisites
 
-- **Python** | Versão 3.11.9
-- **Conta AWS** | Camada gratuita
-- **Conta Grafana** | Camada gratuita
+- **Python** | Version 3.11.9  
+- **AWS Account** | Free tier  
+- **Grafana Account** | Free tier  
 
-### Pacotes Necessários
+### Required Packages
 
-Instale estes pacotes no Python antes de executar o código:
+Install these Python packages before running the code:
 
 ```bash
 langchain
