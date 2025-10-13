@@ -1,7 +1,12 @@
 # Anime Recommender System
 <img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/42834738-18bd-474a-a64c-b9e4becbbd0a" />
 
-<stack utilizada> Grafana Cloud MiniKube Chroma DB LangChain
+### Tech Stack
+
+![Grafana](https://img.shields.io/badge/Grafana%20Cloud-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MiniKube](https://img.shields.io/badge/MiniKube-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%2300A67E?style=for-the-badge&logo=databricks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23006B8F?style=for-the-badge&logo=openai&logoColor=white)
 
 Um sistema de recomendação é um tipo de modelo de inteligência artificial projetado para prever preferências e sugerir itens relevantes aos usuários com base em seu comportamento, histórico ou características semelhantes a outros usuários. Ele atua como um filtro inteligente em meio ao excesso de informações, ajudando pessoas a descobrirem produtos, músicas, filmes, cursos, ou qualquer conteúdo de interesse de forma personalizada.
 
