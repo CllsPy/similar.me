@@ -4,7 +4,7 @@
 Um sistema de recomendação é um tipo de modelo de inteligência artificial projetado para prever preferências e sugerir itens relevantes aos usuários com base em seu comportamento, histórico ou características semelhantes a outros usuários. Ele atua como um filtro inteligente em meio ao excesso de informações, ajudando pessoas a descobrirem produtos, músicas, filmes, cursos, ou qualquer conteúdo de interesse de forma personalizada.
 
 # Descrição do Projeto
-O objetivo do projeto é construir um sistema de recomendação de animes, usando LLMs. O foco do projeto consiste em obter uma lista de animes para outros animes semelhantes, por padrão o webapp retorna três recomendações. Finalizado, o projeto será enviado a núvem [(EC2)](https://aws.amazon.com/pt/ec2/) e monitorado via [Grafana].
+O objetivo do projeto é construir um sistema de recomendação de animes, o algoritmo de recomendação terá como motor o [llama-3.1-8b-instant](https://console.groq.com/docs/model/llama-3.1-8b-instant), através da api do [Groq](https://console.groq.com/home). O foco do projeto consiste em obter uma lista de animes para outros animes semelhantes, por padrão o webapp retorna três recomendações. Finalizado, o projeto será enviado a núvem [(EC2)](https://aws.amazon.com/pt/ec2/) e monitorado via [Grafana](https://grafana.com/).
 
 ## Steps
 1. Setup do projeto
