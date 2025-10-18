@@ -10,6 +10,8 @@
 
 ## Discover Anime That Matches Your Interests
 
+![Diagramme sans nom](https://github.com/user-attachments/assets/e98a1e72-a0e3-4c00-8c5a-503f2f91b67b)
+
 A recommendation system is an artificial intelligence model that predicts your preferences and suggests relevant content based on your behavior, history, or similarities with other users. It works as an intelligent filter that helps you discover anime, movies, music, and other content in a personalized way, reducing information overload.
 
 ## About This Project
@@ -17,6 +19,8 @@ A recommendation system is an artificial intelligence model that predicts your p
 We will build an anime recommendation system using the **[llama-3.1-8b-instant](https://console.groq.com/docs/model/llama-3.1-8b-instant)** model through the **[Groq API](https://console.groq.com/home)**.  
 The system will recommend anime similar to the one you choose, returning three personalized suggestions.  
 Finally, we will deploy the application on **[Amazon EC2](https://aws.amazon.com/ec2/)** and monitor its performance with **[Grafana](https://grafana.com/)**.
+
+
 
 ## Development Roadmap
 
