@@ -59,3 +59,9 @@ python-dotenv
 sentence-transformers
 langchain-huggingface
 streamlit
+```
+
+### Demo
+
+https://github.com/user-attachments/assets/df9bf6fa-be7b-4263-a22f-9a51dfa637f4
+
